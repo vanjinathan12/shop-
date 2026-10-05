@@ -1,0 +1,9 @@
+{
+  "name": "ATELIER — Modern Design & Living Store",
+  "description": "Curated storefront featuring handcrafted Scandinavian furniture, architectural lighting, and artisanal homeware.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
